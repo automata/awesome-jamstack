@@ -1,12 +1,23 @@
 # Awesome JAMstack [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Carefully curated list of awesome [JAMstack](https://jamstack.org) resources.
-
-> Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
+<div align="center">
+  <img width="500" src="media/jamstack-full-logo.svg" alt="JAMstack">
+  <br>
+  <br>
+  <p>
+    <strong>JAMstack</strong>: noun \’jam-stak’\<br />
+    Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
+  </p>
+  <p>
+    This is a carefully curated list of awesome <a href="https://jamstack.org">JAMstack</a> resources.
+  </p>
+  <br>
+  <br>
+</div>
 
 *You might also like [Awesome Static Generators](https://github.com/myles/awesome-static-generators).*
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Want to contribute with some resource? Great! Please, read the [contribution guidelines](contributing.md) before contributing.*
 
 ---
 
@@ -16,6 +27,13 @@
 - [Chats](#chats)
 - [Platforms](#platforms)
 - [CMS](#cms)
+- [API](#api)
+  - [E-commerce](#e-commerce)
+- [Videos](#videos)
+- [Tutorials](#tutorials)
+- [Podcasts](#podcasts)
+
+---
 
 ## General
 
