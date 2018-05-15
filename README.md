@@ -46,6 +46,7 @@
 
 - [JAMstack](https://jamstack.org/)
 - [JAMstack resources](https://jamstack.org/resources/) - Videos and articles about JAMstack
+- [the New Dynamic](https://www.thenewdynamic.org/) - Pick up tools in our Directory to work with the JAMstack. Browse our showcase and get inspired
 
 ## Chats
 
@@ -103,7 +104,9 @@
 
 ## Videos
 
-- [The New Front-end Stack. Javascript, APIs and Markup](https://vimeo.com/163522126) by Matt Biilmann
+- [The New Front-end Stack. Javascript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann
+- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman
+- [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae
 
 ## Tutorials
 
