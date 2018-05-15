@@ -1,14 +1,18 @@
-# Awesome JAMstack [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
 <div align="center">
+  <br />
+  <br />
+  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <br />
+  <br />
   <img width="500" src="media/jamstack-full-logo.svg" alt="JAMstack">
-  <br>
-  <br>
+  <br />
+  <br />
   <p>
     <strong>JAMstack</strong>: noun \’jam-stak’\<br />
     Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
   </p>
   <p>
+    <br /><br />
     This is a carefully curated list of awesome <a href="https://jamstack.org">JAMstack</a> resources.
   </p>
   <br>
@@ -29,6 +33,9 @@
 - [CMS](#cms)
 - [API](#api)
   - [E-commerce](#e-commerce)
+  - [Search](#search)
+  - [Database](#database)
+  - [Automation](#automation)
 - [Videos](#videos)
 - [Tutorials](#tutorials)
 - [Podcasts](#podcasts)
@@ -50,6 +57,17 @@
 
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects
 
+## Static Site Generators
+
+- [Gatsby](https://gatsbyjs.org) - Blazing-fast static site generator for React
+- [Next.js](https://nextjs.org/) - Lightweight framework for static and server-rendered applications
+- [Hugo](https://gohugo.io) - Hugo is a static site generator written in Go
+- [Jekyll](https://jekyllrb.com) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites
+- [Hexo](https://hexo.io) - A fast, simple & powerful blog framework, powered by Node.js
+- [Metalsmith](https://metalsmith.io) - An extremely simple, pluggable static site generator
+
+*For a more complete list see [StaticGen](https://www.staticgen.com/).*
+
 ## CMS
 
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams
@@ -58,19 +76,30 @@
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS
 - [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers
-- [CloudCannon](https://cloudcannon.com) - The Cloud CMS for Jekyll
-- [Forestry](https://forestry.io) - Static CMS for Hugo and Jekyll
 - [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love
-- [Jekyll Admin](https://jekyll.github.io/jekyll-admin/) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-- [Directus](https://getdirectus.com/) - Open-Source Headless CMS and API
 
 ## API
 
 ### E-commerce
 
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites
+- [goCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers
+
+### Search
+
+- [Algolia](https://www.algolia.com/) - The most reliable platform for building search into your business
+
+### Database
+
+- [GraphQL](https://graphql.org) - Query language for APIs and a runtime for fulfilling those queries with your existing data
+- [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends
+
+### Automation
+
+- [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together
 
 ## Videos
 
