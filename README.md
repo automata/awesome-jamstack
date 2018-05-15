@@ -12,41 +12,41 @@
 
 ## Contents
 
+- [General](#general)
+- [Chats](#chats)
+- [Platforms](#platforms)
 - [CMS](#cms)
 
 ## General
 
-- JAMstack
-- JAMstack resources
+- [JAMstack](https://jamstack.org/)
+- [JAMstack resources](https://jamstack.org/resources/) - Videos and articles about JAMstack
 
 ## Chats
 
-- https://gitter.im/jamstack/community
-- https://gitter.im/netlify/community
-- https://gitter.im/netlify/NetlifyCMS
+- [JAMstack Gitter Chat](https://gitter.im/jamstack/community)
+- [Netlify Gitter Chat](https://gitter.im/netlify/community)
+- [NetlifyCMS Gitter Chat](https://gitter.im/netlify/NetlifyCMS)
 
 ## Platforms
 
-- Netlify
+- [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects
 
 ## CMS
 
-Contentful
+- [Contentful](https://contentful.com) - Content infrastructure for digital teams
 - [NetlifyCMS](https://netlifycms.org/) - Famous digital art blog
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS
-Prismic
-CloudCannon → [see our tuts]
-Forestry
-Siteleaf
-DatoCMS
-Bowtie
-Jekyll Admin
-Prose
-Appernetic
-Drive CMS
-Directus
+- [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers
+- [CloudCannon](https://cloudcannon.com) - The Cloud CMS for Jekyll
+- [Forestry](https://forestry.io) - Static CMS for Hugo and Jekyll
+- [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site
+- [DatoCMS](https://datocms.com) - The API-based CMS your editors will love
+- [Jekyll Admin](https://jekyll.github.io/jekyll-admin/) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+- [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
+- [Directus](https://getdirectus.com/) - Open-Source Headless CMS and API
 
 ## API
 
@@ -56,10 +56,17 @@ Directus
 
 ## Videos
 
+- [The New Front-end Stack. Javascript, APIs and Markup](https://vimeo.com/163522126) by Matt Biilmann
+
 ## Tutorials
 
 - [Handling Static Forms, Auth & Serverless Functions with Gatsby on Netlify](https://snipcart.com/blog/static-forms-serverless-gatsby-netlify)
 - [JAMstack for Clients: Benefits, Static Site CMS, & Limitations](https://snipcart.com/blog/jamstack-clients-static-site-cms)
+- [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
+
+## Podcasts
+
+- [JAMstack Radio](https://www.netlify.com/tags/podcast/)
 
 ## License
 
