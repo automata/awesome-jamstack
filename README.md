@@ -53,6 +53,7 @@
 - [JAMstack Gitter Chat](https://gitter.im/jamstack/community)
 - [Netlify Gitter Chat](https://gitter.im/netlify/community)
 - [NetlifyCMS Gitter Chat](https://gitter.im/netlify/NetlifyCMS)
+- [the New Dynamic Slack](https://join.slack.com/t/thenewdynamic/shared_invite/enQtMjkwNjYwNTY0NjkxLWI1NDhlNjZkZjA5ZGJmODE1OThiMjkwN2ZkMzE1YjEwN2YwNWUxYTNjZTUxMGQ2MzU3NWQ0YmVjNGU1NTkxMDk)
 
 ## Platforms
 
