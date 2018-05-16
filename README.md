@@ -32,6 +32,8 @@
 - [Platforms](#platforms)
 - [CMS](#cms)
 - [API](#api)
+  - [Authentication](#authentication)
+  - [Comments](#comments)
   - [E-commerce](#e-commerce)
   - [Search](#search)
   - [Database](#database)
@@ -84,15 +86,26 @@
 
 ## API
 
+### Authentication
+
+- [Auth0](https://auth0.com/) - Single sign on and token based authentication
+- [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org)
+
+### Comments
+
+- [Disqus](https://disqus.com) - Global comment system that improves discussion on websites and connects conversations across the web
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - The comments plugin lets people comment on content on your site using their Facebook account
+
 ### E-commerce
 
 - [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites
-- [goCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites
+- [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers
 
 ### Search
 
 - [Algolia](https://www.algolia.com/) - The most reliable platform for building search into your business
+- [Lunr](https://lunrjs.com/) - Search made simple (on frontend)
 
 ### Database
 
