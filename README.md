@@ -1,29 +1,32 @@
 <div align="center">
-  <br />
-  <br />
+  <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
-  <br />
-  <br />
+  <br /><br /><br />
   <img width="500" src="media/jamstack-full-logo.svg" alt="JAMstack">
-  <br />
-  <br />
+  <br /><br /><br />
   <p>
     <strong>JAMstack</strong>: noun \’jam-stak’\<br />
     Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
   </p>
+  <br /><br />
   <p>
-    <br /><br />
-    This is a carefully curated list of awesome <a href="https://jamstack.org">JAMstack</a> resources.
+    <b>
+      This is a carefully curated list of awesome <a href="https://jamstack.org">JAMstack</a> resources.
+    </b>
   </p>
-  <br>
-  <br>
+  <br /><br />
+  <p>
+    <i>
+      You might also like <a href="https://github.com/myles/awesome-static-generators">Awesome Static Generators</a>.
+    </i>
+  </p>
+  <p>
+    <i>
+      Want to contribute with some resource? Great! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing.
+    </i>
+  </p>
+  <br /><br />
 </div>
-
-*You might also like [Awesome Static Generators](https://github.com/myles/awesome-static-generators).*
-
-*Want to contribute with some resource? Great! Please, read the [contribution guidelines](contributing.md) before contributing.*
-
----
 
 ## Contents
 
@@ -126,10 +129,24 @@
 ## Serverless
 
 - [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify lets you deploy Lambda functions without an AWS account, and with function management handled directly within Netlify
-- Amazon Lambda
+- [Amazon Lambda](https://aws.amazon.com/lambda/) - Lets you run code without provisioning or managing servers
 - Microsoft Azure
+  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - Serverless compute service that enables you to run code on-demand without having to explicitly provision or manage infrastructure
+  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - Simplifies building automated scalable workflows that integrate apps and data across cloud services and on-premises systems
 - Google Cloud
+  - [App Engine](https://cloud.google.com/appengine/) - Serverless application that completely abstracts away infrastructure so you focus only on code
+  - [Cloud Functions](https://cloud.google.com/functions/) - Serverless environment to build and connect cloud services
+  - [Cloud Datastore](https://cloud.google.com/datastore/) - Highly-scalable NoSQL database with automatic sharding and replication
+  - [Cloud Storage](https://cloud.google.com/storage/) - Geo-redundant object storage for high QPS needs
+  - [Cloud Pub/Sub](https://cloud.google.com/pubsub/) - Geo-redundant real-time messaging for all message sizes and velocities
+  - [Apigee](https://apigee.com/) - Enterprise API management for multi-cloud environments
+  - [Endpoints](https://cloud.google.com/endpoints/) - API management apps built on Google Cloud
+  - [Cloud Dataflow](https://cloud.google.com/dataflow/) - Serverless stream and batch data processing service
+  - [BigQuery](https://cloud.google.com/bigquery/) - Serverless data warehousing services that help you to deploy advanced cloud data warehousing solutions for your enterprise
+  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (Tensor Processing Units)
 - [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures
+
+*For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
