@@ -34,10 +34,12 @@
 - [API](#api)
   - [Authentication](#authentication)
   - [Comments](#comments)
+  - [Forms](#forms)
   - [E-commerce](#e-commerce)
   - [Search](#search)
   - [Database](#database)
   - [Automation](#automation)
+- [Serverless](#serverless)
 - [Videos](#videos)
 - [Tutorials](#tutorials)
 - [Podcasts](#podcasts)
@@ -83,6 +85,7 @@
 - [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
+- [Tipe](https://tipe.io) - Next Generation API-first CMS
 
 ## API
 
@@ -95,6 +98,10 @@
 
 - [Disqus](https://disqus.com) - Global comment system that improves discussion on websites and connects conversations across the web
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - The comments plugin lets people comment on content on your site using their Facebook account
+
+### Forms
+
+- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time
 
 ### E-commerce
 
@@ -115,6 +122,14 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together
+
+## Serverless
+
+- [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify lets you deploy Lambda functions without an AWS account, and with function management handled directly within Netlify
+- Amazon Lambda
+- Microsoft Azure
+- Google Cloud
+- [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures
 
 ## Videos
 
