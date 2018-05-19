@@ -33,6 +33,7 @@
 - [General](#general)
 - [Chats](#chats)
 - [Platforms](#platforms)
+- [Static Site Generators](#static-site-generators)
 - [CMS](#cms)
 - [API](#api)
   - [Authentication](#authentication)
