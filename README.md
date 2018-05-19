@@ -58,6 +58,7 @@
 
 ## Chats
 
+- [Appernetic Gitter Chat](https://gitter.im/appernetic/issues)
 - [JAMstack Gitter Chat](https://gitter.im/jamstack/community)
 - [Netlify Gitter Chat](https://gitter.im/netlify/community)
 - [NetlifyCMS Gitter Chat](https://gitter.im/netlify/NetlifyCMS)
@@ -65,6 +66,7 @@
 
 ## Platforms
 
+- [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and Github Pages
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects
 
 ## Static Site Generators
