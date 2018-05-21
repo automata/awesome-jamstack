@@ -92,6 +92,7 @@
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS
+- [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll
 
 ## API
 
