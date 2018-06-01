@@ -161,6 +161,7 @@
 
 ## Tutorials
 
+- [Developer's Guide to Headless E-Commerce](https://snipcart.com/blog/headless-ecommerce-guide) - Great review of available CMS for E-Commerce
 - [Handling Static Forms, Auth & Serverless Functions with Gatsby on Netlify](https://snipcart.com/blog/static-forms-serverless-gatsby-netlify)
 - [JAMstack for Clients: Benefits, Static Site CMS, & Limitations](https://snipcart.com/blog/jamstack-clients-static-site-cms)
 - [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
