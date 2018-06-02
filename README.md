@@ -161,7 +161,11 @@
 
 ## Tutorials
 
-- [Developer's Guide to Headless E-Commerce](https://snipcart.com/blog/headless-ecommerce-guide) - Great review of available CMS for E-Commerce
+- [Leveling up: why developers need to be able to identify technologies with staying power (and how to do it)](https://medium.com/netlify/leveling-up-why-developers-need-to-be-able-to-identify-technologies-with-staying-power-and-how-to-9aa74878fc08)
+- [JAMstack and Netlify: Do We really need another buzzword?](https://noti.st/philhawksworth/qp7jZC/jamstack-and-netlify-do-we-really-need-another-buzzword)
+- [The JAMstack Startup Landscape](https://medium.com/@CRVVC/the-jamstack-startup-landscape-c06cc3cdb917)
+- [How I built my blog using Gatsby and Netlify](https://blog.pavsidhu.com/how-i-built-my-blog-using-gatsby-and-netlify/)
+- [Developer's Guide to Headless E-Commerce](https://snipcart.com/blog/headless-ecommerce-guide)
 - [Handling Static Forms, Auth & Serverless Functions with Gatsby on Netlify](https://snipcart.com/blog/static-forms-serverless-gatsby-netlify)
 - [JAMstack for Clients: Benefits, Static Site CMS, & Limitations](https://snipcart.com/blog/jamstack-clients-static-site-cms)
 - [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
