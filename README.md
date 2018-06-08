@@ -77,6 +77,7 @@
 - [Jekyll](https://jekyllrb.com) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites
 - [Hexo](https://hexo.io) - A fast, simple & powerful blog framework, powered by Node.js
 - [Metalsmith](https://metalsmith.io) - An extremely simple, pluggable static site generator
+- [Phenomic](https://phenomic.io/) - A modular website compiler
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
