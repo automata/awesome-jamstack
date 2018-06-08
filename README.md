@@ -91,9 +91,10 @@
 - [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers
 - [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love
-- [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
+- [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites
 - [Tipe](https://tipe.io) - Next Generation API-first CMS
 - [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll
+- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 
 ## API
