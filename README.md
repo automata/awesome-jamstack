@@ -45,7 +45,7 @@
   - [Automation](#automation)
 - [Serverless](#serverless)
 - [Videos](#videos)
-- [Tutorials](#tutorials)
+- [Tutorials](#tutorials--articles)
 - [Podcasts](#podcasts)
 
 ---
@@ -95,6 +95,7 @@
 - [Tipe](https://tipe.io) - Next Generation API-first CMS
 - [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files
+- [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 
 ## API
@@ -163,6 +164,8 @@
 
 ## Tutorials / Articles
 
+- [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
+- [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 - [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 - [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 - [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
