@@ -119,6 +119,7 @@
 - [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers
+- [Moltin](https://moltin.com/) - eCommerce API for developers
 
 ### Search
 
