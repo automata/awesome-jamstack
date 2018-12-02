@@ -1,0 +1,28 @@
+{
+  "name": "awesome-jamstack",
+  "version": "1.0.0",
+  "description": "Awesome JAMStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automata/awesome-jamstack.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "jamstack",
+    "serverless",
+    "js",
+    "javascript",
+    "json"
+  ],
+  "author": "Vilson Vieira <vilson@void.cc>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/automata/awesome-jamstack/issues"
+  },
+  "homepage": "https://github.com/automata/awesome-jamstack#readme"
+}

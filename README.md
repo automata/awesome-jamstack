@@ -45,7 +45,7 @@
   - [Automation](#automation)
 - [Serverless](#serverless)
 - [Videos](#videos)
-- [Tutorials](#tutorials--articles)
+- [Tutorials / Articles](#tutorials--articles)
 - [Podcasts](#podcasts)
 
 ---
@@ -53,8 +53,8 @@
 ## General
 
 - [JAMstack](https://jamstack.org/)
-- [JAMstack resources](https://jamstack.org/resources/) - Videos and articles about JAMstack
-- [the New Dynamic](https://www.thenewdynamic.org/) - Pick up tools in our Directory to work with the JAMstack. Browse our showcase and get inspired
+- [JAMstack resources](https://jamstack.org/resources/) - Videos and articles about JAMstack.
+- [the New Dynamic](https://www.thenewdynamic.org/) - Pick up tools in our Directory to work with the JAMstack. Browse our showcase and get inspired.
 
 ## Chats
 
@@ -66,103 +66,103 @@
 
 ## Platforms
 
-- [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and Github Pages
-- [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects
+- [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
+- [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 
 ## Static Site Generators
 
-- [Gatsby](https://gatsbyjs.org) - Blazing-fast static site generator for React
-- [Next.js](https://nextjs.org/) - Lightweight framework for static and server-rendered applications
-- [Hugo](https://gohugo.io) - Hugo is a static site generator written in Go
-- [Jekyll](https://jekyllrb.com) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites
-- [Hexo](https://hexo.io) - A fast, simple & powerful blog framework, powered by Node.js
-- [Metalsmith](https://metalsmith.io) - An extremely simple, pluggable static site generator
-- [Phenomic](https://phenomic.io/) - A modular website compiler
+- [Gatsby](https://gatsbyjs.org) - Blazing-fast static site generator for React.
+- [Next.js](https://nextjs.org/) - Lightweight framework for static and server-rendered applications.
+- [Hugo](https://gohugo.io) - Hugo is a static site generator written in Go.
+- [Jekyll](https://jekyllrb.com) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.
+- [Hexo](https://hexo.io) - A fast, simple & powerful blog framework, powered by Node.js.
+- [Metalsmith](https://metalsmith.io) - An extremely simple, pluggable static site generator.
+- [Phenomic](https://phenomic.io/) - A modular website compiler.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
 
-- [Contentful](https://contentful.com) - Content infrastructure for digital teams
-- [NetlifyCMS](https://netlifycms.org/) - Famous digital art blog
-- [ButterCMS](https://buttercms.com/) - Headless CMS and Content API
-- [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses
-- [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS
-- [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers
-- [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site
-- [DatoCMS](https://datocms.com) - The API-based CMS your editors will love
-- [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites
-- [Tipe](https://tipe.io) - Next Generation API-first CMS
-- [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll
-- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files
-- [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS
-- [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+- [Contentful](https://contentful.com) - Content infrastructure for digital teams.
+- [NetlifyCMS](https://netlifycms.org/) - Famous digital art blog.
+- [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
+- [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
+- [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
+- [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers.
+- [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
+- [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
+- [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
+- [Tipe](https://tipe.io) - Next Generation API-first CMS.
+- [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll.
+- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+- [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
+- [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
 
 ## API
 
 ### Authentication
 
-- [Auth0](https://auth0.com/) - Single sign on and token based authentication
-- [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org)
+- [Auth0](https://auth0.com/) - Single sign on and token based authentication.
+- [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 
 ### Comments
 
-- [Disqus](https://disqus.com) - Global comment system that improves discussion on websites and connects conversations across the web
-- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - The comments plugin lets people comment on content on your site using their Facebook account
+- [Disqus](https://disqus.com) - Global comment system that improves discussion on websites and connects conversations across the web.
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - The comments plugin lets people comment on content on your site using their Facebook account.
 
 ### Forms
 
-- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time
+- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites
-- [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites
-- [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers
-- [Moltin](https://moltin.com/) - eCommerce API for developers
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+- [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites.
+- [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
+- [Moltin](https://moltin.com/) - eCommerce API for developers.
 
 ### Search
 
-- [Algolia](https://www.algolia.com/) - The most reliable platform for building search into your business
-- [Lunr](https://lunrjs.com/) - Search made simple (on frontend)
+- [Algolia](https://www.algolia.com/) - The most reliable platform for building search into your business.
+- [Lunr](https://lunrjs.com/) - Search made simple (on frontend).
 
 ### Database
 
-- [GraphQL](https://graphql.org) - Query language for APIs and a runtime for fulfilling those queries with your existing data
-- [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends
-- [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise
+- [GraphQL](https://graphql.org) - Query language for APIs and a runtime for fulfilling those queries with your existing data.
+- [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
+- [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise.
 
 ### Automation
 
-- [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together
+- [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
 
 ## Serverless
 
-- [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify lets you deploy Lambda functions without an AWS account, and with function management handled directly within Netlify
-- [Amazon Lambda](https://aws.amazon.com/lambda/) - Lets you run code without provisioning or managing servers
+- [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify lets you deploy Lambda functions without an AWS account, and with function management handled directly within Netlify.
+- [Amazon Lambda](https://aws.amazon.com/lambda/) - Lets you run code without provisioning or managing servers.
 - Microsoft Azure
-  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - Serverless compute service that enables you to run code on-demand without having to explicitly provision or manage infrastructure
-  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - Simplifies building automated scalable workflows that integrate apps and data across cloud services and on-premises systems
+  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - Serverless compute service that enables you to run code on-demand without having to explicitly provision or manage infrastructure.
+  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - Simplifies building automated scalable workflows that integrate apps and data across cloud services and on-premises systems.
 - Google Cloud
-  - [App Engine](https://cloud.google.com/appengine/) - Serverless application that completely abstracts away infrastructure so you focus only on code
-  - [Cloud Functions](https://cloud.google.com/functions/) - Serverless environment to build and connect cloud services
-  - [Cloud Datastore](https://cloud.google.com/datastore/) - Highly-scalable NoSQL database with automatic sharding and replication
-  - [Cloud Storage](https://cloud.google.com/storage/) - Geo-redundant object storage for high QPS needs
-  - [Cloud Pub/Sub](https://cloud.google.com/pubsub/) - Geo-redundant real-time messaging for all message sizes and velocities
-  - [Apigee](https://apigee.com/) - Enterprise API management for multi-cloud environments
-  - [Endpoints](https://cloud.google.com/endpoints/) - API management apps built on Google Cloud
-  - [Cloud Dataflow](https://cloud.google.com/dataflow/) - Serverless stream and batch data processing service
-  - [BigQuery](https://cloud.google.com/bigquery/) - Serverless data warehousing services that help you to deploy advanced cloud data warehousing solutions for your enterprise
-  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (Tensor Processing Units)
-- [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures
+  - [App Engine](https://cloud.google.com/appengine/) - Serverless application that completely abstracts away infrastructure so you focus only on code.
+  - [Cloud Functions](https://cloud.google.com/functions/) - Serverless environment to build and connect cloud services.
+  - [Cloud Datastore](https://cloud.google.com/datastore/) - Highly-scalable NoSQL database with automatic sharding and replication.
+  - [Cloud Storage](https://cloud.google.com/storage/) - Geo-redundant object storage for high QPS needs.
+  - [Cloud Pub/Sub](https://cloud.google.com/pubsub/) - Geo-redundant real-time messaging for all message sizes and velocities.
+  - [Apigee](https://apigee.com/) - Enterprise API management for multi-cloud environments.
+  - [Endpoints](https://cloud.google.com/endpoints/) - API management apps built on Google Cloud.
+  - [Cloud Dataflow](https://cloud.google.com/dataflow/) - Serverless stream and batch data processing service.
+  - [BigQuery](https://cloud.google.com/bigquery/) - Serverless data warehousing services that help you to deploy advanced cloud data warehousing solutions for your enterprise.
+  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (Tensor Processing Units).
+- [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
 
 *For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
-- [The New Front-end Stack. Javascript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann
-- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman
-- [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae
+- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann.
+- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman.
+- [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae.
 
 ## Tutorials / Articles
 
