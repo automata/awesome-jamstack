@@ -6,6 +6,9 @@
   "scripts": {
     "test": "awesome-lint"
   },
+  "devDependencies": {
+		"awesome-lint": "*"
+	},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/automata/awesome-jamstack.git"
