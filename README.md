@@ -163,8 +163,8 @@
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann.
 - [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae.
-- [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org
-- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media
+- [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
+- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
 
 ## Tutorials / Articles
 
