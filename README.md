@@ -33,6 +33,7 @@
 - [General](#general)
 - [Chats](#chats)
 - [Platforms](#platforms)
+- [JAMstack Sites Showcase](#jamstack-sites-showcase)
 - [Static Site Generators](#static-site-generators)
 - [CMS](#cms)
 - [API](#api)
@@ -68,6 +69,12 @@
 
 - [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
+
+## JAMstack Sites Showcase
+
+- [React](https://reactjs.org/) - Built on Gatsby.
+- [Squoosh.app](https://squoosh.app/) - Hosted on Netlify, demonstrates advanced features from a modern Web Application.
+- [Hopper](https://travel.hopper.com/) - Built on Gatsby and hosted on Netlify.
 
 ## Static Site Generators
 
@@ -165,9 +172,11 @@
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
+- [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - Kyle Mathews.
 
 ## Tutorials / Articles
 
+- [Ghost on the JAMstack](https://blog.ghost.org/jamstack/)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 - [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
@@ -182,6 +191,8 @@
 - [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
 - [JAMstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components Pt. 1](https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092)
 - [Dynamic Static Sites with Netlify and iOS Shortcuts; Use Netlify Functions, a Gulp build process and iOS Shortcuts to publish dynamic content to your static site](https://bryanlrobinson.com/blog/2018/11/12/ios-shortcuts-pushing-data-to-netlify-static-site/)
+- [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
+- [Turning the Static Dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
 
 ## Podcasts
 
