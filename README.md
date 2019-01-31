@@ -85,6 +85,7 @@
 - [Hexo](https://hexo.io) - A fast, simple & powerful blog framework, powered by Node.js.
 - [Metalsmith](https://metalsmith.io) - An extremely simple, pluggable static site generator.
 - [Phenomic](https://phenomic.io/) - A modular website compiler.
+- [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
