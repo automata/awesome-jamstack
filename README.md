@@ -134,6 +134,7 @@
 
 - [Algolia](https://www.algolia.com/) - The most reliable platform for building search into your business.
 - [Lunr](https://lunrjs.com/) - Search made simple (on frontend).
+- [CloudSh](https://cloudsh.com/) - Powerful search with a few lines of JavaScript.
 
 ### Database
 
