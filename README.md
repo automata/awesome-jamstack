@@ -106,6 +106,7 @@
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
+- [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 
 ## API
 
