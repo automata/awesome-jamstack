@@ -130,6 +130,7 @@
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
+- [Trolley](https://trolley.link) - A shopping cart designed for the JAMstack.
 
 ### Search
 
