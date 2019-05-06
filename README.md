@@ -147,6 +147,7 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## Serverless
 
