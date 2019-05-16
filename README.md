@@ -87,6 +87,7 @@
 - [Phenomic](https://phenomic.io/) - A modular website compiler.
 - [Gridsome](https://gridsome.org/) - Vue-powered static site generator for building CDN-ready websites for any Headless CMS, APIs or Markdown-files.
 - [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
+- [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
