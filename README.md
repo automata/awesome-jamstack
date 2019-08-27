@@ -120,6 +120,7 @@
 
 - [Disqus](https://disqus.com) - Global comment system that improves discussion on websites and connects conversations across the web.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - The comments plugin lets people comment on content on your site using their Facebook account.
+- [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
 
 ### Forms
 
