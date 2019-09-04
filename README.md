@@ -75,6 +75,8 @@
 - [React](https://reactjs.org/) - Built on Gatsby.
 - [Squoosh.app](https://squoosh.app/) - Hosted on Netlify, demonstrates advanced features from a modern Web Application.
 - [Hopper](https://travel.hopper.com/) - Built on Gatsby and hosted on Netlify.
+- [VSCode Power User Course](https://vscode.pro/) - PWA built on Gatsby and hosted on Netlify.
+- [CloudyCam](https://CloudyCam.dev/) - PWA built on Next.js and hosted on Zeit Now v2 Serverless platform.
 
 ## Static Site Generators
 
