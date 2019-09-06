@@ -97,7 +97,7 @@
 ## CMS
 
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
-- [NetlifyCMS](https://netlifycms.org/) - Famous digital art blog.
+- [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
@@ -106,7 +106,7 @@
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS.
-- [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll.
+- [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
