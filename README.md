@@ -209,6 +209,7 @@
 - [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 - [A Broad Discussion on JAMstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
+- [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 - [9 Headless CMS Options for Your JAMstack Site](https://bejamas.io/blog/headless-cms/)
 
 ## Podcasts
