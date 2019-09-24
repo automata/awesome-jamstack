@@ -128,6 +128,7 @@
 ### Forms
 
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
+- [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
 
 ### E-commerce
 
