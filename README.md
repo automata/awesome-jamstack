@@ -98,7 +98,7 @@
 ## CMS
 
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
-- [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
+- [NetlifyCMS](https://netlifycms.org/) - Open source Git-based CMS.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
