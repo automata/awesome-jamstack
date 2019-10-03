@@ -190,6 +190,7 @@
 
 ## Tutorials / Articles
 
+- [Modern Web Development on the JAMstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) [Book] by Mathias Biilmann & Phil Hawksworth (published by O'Reilly)
 - [Ghost on the JAMstack](https://blog.ghost.org/jamstack/)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
