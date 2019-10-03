@@ -48,6 +48,7 @@
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
 - [Podcasts](#podcasts)
+- [Books](#books)
 
 ---
 
@@ -219,6 +220,9 @@
 
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/)
 - [That's my JAMstack](https://thatsmyjamstack.com)
+
+## Books
+- [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## License
 
