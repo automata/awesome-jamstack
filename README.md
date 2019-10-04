@@ -48,6 +48,7 @@
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
 - [Podcasts](#podcasts)
+- [Books](#books)
 
 ---
 
@@ -112,6 +113,7 @@
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
+- [Ghost](https://ghost.org/) - A headless CMS for online publications
 
 ## API
 
@@ -183,6 +185,7 @@
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann.
 - [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman.
+- [JAMstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) - Phil Hawksworth.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
@@ -218,6 +221,9 @@
 
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/)
 - [That's my JAMstack](https://thatsmyjamstack.com)
+
+## Books
+- [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## License
 
