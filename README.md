@@ -181,6 +181,7 @@
 
 ## Videos
 
+- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann.
 - [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
@@ -190,6 +191,7 @@
 ## Tutorials / Articles
 
 - [Ghost on the JAMstack](https://blog.ghost.org/jamstack/)
+- [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 - [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 - [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
