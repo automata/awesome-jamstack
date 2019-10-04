@@ -223,6 +223,7 @@
 - [That's my JAMstack](https://thatsmyjamstack.com)
 
 ## Books
+- [Modern Web Development on the JAMstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - By Mathias Biilmann & Phil Hawksworth (published by O'Reilly).
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## License
