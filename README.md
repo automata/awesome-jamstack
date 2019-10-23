@@ -114,6 +114,7 @@
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 - [Ghost](https://ghost.org/) - A headless CMS for online publications
+- [Strapi](https://strapi.io) - The open source Headless CMS Front-End Developers love.
 
 ## API
 
