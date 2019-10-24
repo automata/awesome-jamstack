@@ -141,6 +141,7 @@
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
 - [Trolley](https://trolley.link) - A shopping cart designed for the JAMstack.
+- [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) - Shopify headless e-commerce solution.
 
 ### Search
 
