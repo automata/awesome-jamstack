@@ -190,6 +190,7 @@
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - Kyle Mathews.
+- [Talks from all the JAMstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) - JAMstack Conf
 
 ## Tutorials / Articles
 
