@@ -79,6 +79,7 @@
 - [Hopper](https://travel.hopper.com/) - Built on Gatsby and hosted on Netlify.
 - [VSCode Power User Course](https://vscode.pro/) - PWA built on Gatsby and hosted on Netlify.
 - [CloudyCam](https://CloudyCam.dev/) - PWA built on Next.js and hosted on Zeit Now v2 Serverless platform.
+- [headless.page](https://headless.page/) - A curated list of modern e-commerce sites.
 
 ## Static Site Generators
 
