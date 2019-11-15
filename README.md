@@ -130,7 +130,7 @@
 - [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
 
 ### Forms
-- [Getform](https://getform.io) - Form backend platform designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
+- [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
 - [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
 
