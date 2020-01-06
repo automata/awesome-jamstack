@@ -195,6 +195,7 @@
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - Kyle Mathews.
 - [Talks from all the JAMstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) - JAMstack Conf.
+- [How I Used React, Vue, & Node to Build a Single JAMstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) - Ahmad Awais.
 
 ## Tutorials / Articles
 
