@@ -117,7 +117,7 @@
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 - [Ghost](https://ghost.org/) - A headless CMS for online publications
 - [Strapi](https://strapi.io) - The open source Headless CMS Front-End Developers love.
-
+- [Flotiq](https://flotiq.com) - An effortless headless CMS.
 ## API
 
 ### Authentication
