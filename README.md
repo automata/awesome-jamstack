@@ -124,6 +124,7 @@
 
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
+- [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identy provider with JWT + extra functionality. 
 
 ### Comments
 
@@ -156,6 +157,10 @@
 - [GraphQL](https://graphql.org) - Query language for APIs and a runtime for fulfilling those queries with your existing data.
 - [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
 - [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise.
+- [Jexia DataSet](https://jexia.com) - REST API Schema & Shemaless cloud data storage with built-in validators, relations, aggregation functions.
+
+### File management
+- [Jexia FileSet](https://jexia.com) - REST API File manager for your application with indexing and extra functions.
 
 ### Automation
 
