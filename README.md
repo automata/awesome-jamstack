@@ -70,7 +70,7 @@
 
 - [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
-- [ZEIT Now](https://zeit.co) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
+- [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
 
 ## Jamstack Sites Showcase
 
