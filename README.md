@@ -201,6 +201,7 @@
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - Kyle Mathews.
 - [Talks from all the Jamstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) - Jamstack Conf.
 - [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) - Ahmad Awais.
+- [React vs Vue, Gatsby vs Gridsome - building the same site](https://www.youtube.com/watch?v=H19fF7ITtaI) - Ondrej Polesny.
 
 ## Tutorials / Articles
 
