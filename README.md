@@ -99,7 +99,7 @@
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
-
+- [Kentico Kontent](https://kontent.ai) - A cloud-native headless CMS that scales.
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
 - [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
