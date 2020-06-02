@@ -228,6 +228,7 @@
 - [A Broad Discussion on Jamstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
 - [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 - [9 Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
+- [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
 
 ## Podcasts
 
