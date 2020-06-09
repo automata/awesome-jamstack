@@ -75,7 +75,7 @@
 
 
 ## No-Code Platforms
-- [Draftbox](https://draftbox.co) - Get lightning fast, secure front-end for your WordPress or Ghost blog, in 5 minutes
+- [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 
 ## Jamstack Sites Showcase
 
