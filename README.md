@@ -245,6 +245,7 @@
 ## Books
 - [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - By Mathias Biilmann & Phil Hawksworth (published by O'Reilly).
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
+- [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - By Christopher Pecoraro and Vincenzo Gambino
 
 ## License
 
