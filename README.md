@@ -105,6 +105,7 @@
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
+- [Cosmic](https://cosmicjs.com) - Headless CMS with REST and GraphQL API options.
 - [Kentico Kontent](https://kontent.ai) - A cloud-native headless CMS that scales.
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
 - [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
