@@ -237,6 +237,7 @@
 - [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 - [9 Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
 - [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
+- [Jamify Tutorials — Publish flaring fast blogs with Gatsby and Ghost](https://www.jamify.org)
 
 ## Podcasts
 
