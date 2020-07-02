@@ -108,7 +108,7 @@
 - [Cosmic](https://cosmicjs.com) - Headless CMS with REST and GraphQL API options.
 - [Kentico Kontent](https://kontent.ai) - A cloud-native headless CMS that scales.
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
-- [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
+- [NetlifyCMS](https://netlifycms.org/) - Open source Git-based CMS.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
@@ -122,9 +122,9 @@
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
-- [Ghost](https://ghost.org/) - A headless CMS for online publications
 - [Strapi](https://strapi.io) - The open source Headless CMS Front-End Developers love.
 - [Flotiq](https://flotiq.com) - An effortless headless CMS.
+
 ## API
 
 ### Authentication
