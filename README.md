@@ -125,6 +125,7 @@
 - [Ghost](https://ghost.org/) - A headless CMS for online publications
 - [Strapi](https://strapi.io) - The open source Headless CMS Front-End Developers love.
 - [Flotiq](https://flotiq.com) - An effortless headless CMS.
+- [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 ## API
 
 ### Authentication
