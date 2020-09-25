@@ -197,6 +197,7 @@
 - [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
 - [Cloudinary](https://cloudinary.com/) - Serverless media (images/videos) management platform. Provides SDKs in every popular language and media widgets for Jamstack to make it easy to manage media, CDN, storage, transformations, and more.
 - [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
+- [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses. 
 
 *For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
