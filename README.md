@@ -141,11 +141,11 @@
 - [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
 
 ### Forms
-- [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 - [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
 - [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
+- [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 
 ### E-commerce
 
