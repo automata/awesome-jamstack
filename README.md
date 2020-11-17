@@ -87,6 +87,7 @@
 - [FbaMonthly](https://www.fbamonthly.com) - Hosted on Netlify, built with Jekyll, Netlify Functions and Netlify Forms.
 - [Jarod Peachey](https://jarodpeachey.netlify.com) - Built with Gatsby + MaterialUI and hosted on Netlify
 - [ProtonDB](https://www.protondb.com) - React/MaterialUI/Firebase hosted on Netlify since August 2018. Prominent in Linux gaming community.
+- [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
 
 ## Static Site Generators
 
