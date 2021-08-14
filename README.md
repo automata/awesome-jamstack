@@ -107,7 +107,7 @@
 - [Gridsome](https://gridsome.org/) - Vue-powered static site generator for building CDN-ready websites for any Headless CMS, APIs or Markdown-files.
 - [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 - [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
-- [Nift](https://nift.cc) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
+- [Nift](https://nift.dev) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
