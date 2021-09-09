@@ -109,6 +109,7 @@
 - [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 - [Nift](https://nift.cc) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
+- [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
