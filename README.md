@@ -77,10 +77,10 @@
 *For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
 
 ## No-Code Platforms
-- [Blogody](https://www.blogody.com) - Create your own blog and see it live in seconds.
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
+- [Blogody](https://www.blogody.com) - Create your own blog and see it live in seconds.
 
 ## Jamstack Sites Showcase
 
@@ -136,6 +136,7 @@
 - [Flotiq](https://flotiq.com) - An effortless headless CMS.
 - [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
+- [Blogody](https://www.blogody.com) - Blogody Headless CMS with a GraphQL API.
 ## API
 
 ### Authentication
