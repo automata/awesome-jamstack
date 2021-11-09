@@ -78,6 +78,7 @@
 
 ## No-Code Platforms
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
+- [Storipress](https://storipress.com) - All-in-one no code JAMstack publishing platform
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 
