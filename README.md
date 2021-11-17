@@ -144,6 +144,7 @@
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 - [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identy provider with JWT + extra functionality.
+- - [LoginRadius](https://www.loginradius.com/) - Authentication and SSO to any web and mobile applications.
 
 ### Comments
 
