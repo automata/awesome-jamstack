@@ -146,6 +146,7 @@
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 - [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identy provider with JWT + extra functionality.
+- [M3O Users](https://m3o.com/user) - User management and authentication API including signup and email verification.
 
 ### Comments
 
@@ -185,6 +186,7 @@
 - [GraphQL](https://graphql.org) - Query language for APIs and a runtime for fulfilling those queries with your existing data.
 - [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
 - [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise.
+- [M3O DB](https://m3o.com/db) - Simple database service. CRUD based API with powerful querying built on postgres.
 - [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 
 ### File management
@@ -217,7 +219,7 @@
 - [Cloudinary](https://cloudinary.com/) - Serverless media (images/videos) management platform. Provides SDKs in every popular language and media widgets for Jamstack to make it easy to manage media, CDN, storage, transformations, and more.
 - [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 - [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
-
+- [M3O Functions](https://m3o.com/function) - Serverless compute as a service. Deploy functions with ease through a simple API.
 
 *For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
