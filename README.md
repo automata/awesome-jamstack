@@ -73,11 +73,13 @@
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
+- [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 
 *For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
 
 ## No-Code Platforms
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
+- [Storipress](https://storipress.com) - All-in-one publishing + blogging platform with integrated site builder and workflow management.
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 
@@ -184,8 +186,8 @@
 - [GraphQL](https://graphql.org) - Query language for APIs and a runtime for fulfilling those queries with your existing data.
 - [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
 - [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise.
-- [Jexia DataSet](https://jexia.com) - REST API Schema & Shemaless cloud data storage with built-in validators, relations, aggregation functions.
 - [M3O DB](https://m3o.com/db) - Simple database service. CRUD based API with powerful querying built on postgres.
+- [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 
 ### File management
 - [Jexia FileSet](https://jexia.com) - REST API File manager for your application with indexing and extra functions.
@@ -218,7 +220,7 @@
 - [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 - [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
 - [Stormkit](https://stormkit.io) - Powerful serverless infrastructure for modern javascript apps powered by AWS. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
-- [M3O Functions]( - Serverless compute as a service. Deploy functions with ease through a simple API.
+- [M3O Functions](https://m3o.com/function) - Serverless compute as a service. Deploy functions with ease through a simple API.
 
 *For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
