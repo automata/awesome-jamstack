@@ -146,7 +146,7 @@
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 - [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identy provider with JWT + extra functionality.
-- [M3O User](https://m3o.com/user) - User management and authentication API including signup and email verification.
+- [M3O Users](https://m3o.com/user) - User management and authentication API including signup and email verification.
 
 ### Comments
 
