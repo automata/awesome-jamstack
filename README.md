@@ -145,7 +145,8 @@
 
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
-- [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identy provider with JWT + extra functionality.
+- [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
+- [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ### Comments
 
