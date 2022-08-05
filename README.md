@@ -175,6 +175,7 @@
 - [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) - Shopify headless e-commerce solution.
 - [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
+- [LiveMart](https://www.livemart.store) - GraphQL headless eCommerce solution.
 
 ### Search
 
