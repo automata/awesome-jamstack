@@ -139,13 +139,16 @@
 - [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 - [CloudCannon](https://cloudcannon.com/) - The Git-based CMS for your Jamstack sites.
+- [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
+
 ## API
 
 ### Authentication
 
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
-- [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identy provider with JWT + extra functionality.
+- [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
+- [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ### Comments
 
@@ -155,6 +158,7 @@
 
 ### Forms
 
+- [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API. 
 - [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 - [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
@@ -174,6 +178,7 @@
 - [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 - [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+- [LiveMart](https://www.livemart.store) - GraphQL headless eCommerce solution.
 
 ### Search
 
