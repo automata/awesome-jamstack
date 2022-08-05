@@ -156,6 +156,7 @@
 
 ### Forms
 
+- [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API. 
 - [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 - [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
