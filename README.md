@@ -170,6 +170,7 @@
 
 ### E-commerce
 
+- [Astro Snipcart](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 - [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
