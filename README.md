@@ -160,6 +160,7 @@
 
 ### Forms
 
+- [Basin](https://usebasin.com) - A simple form backend solution for developers. Build forms your way in the frontend and get built-in submission handling, spam protection, data storage, and workflow automation without the engineering lift.
 - [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API. 
 - [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
