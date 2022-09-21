@@ -83,6 +83,7 @@
 - [Storipress](https://storipress.com) - All-in-one publishing + blogging platform with integrated site builder and workflow management.
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
+- [TeleportHQ](https://teleporthq.io/) - Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. Free code export, 3 free projects, unlimited collaborators.
 
 ## Jamstack Sites Showcase
 
