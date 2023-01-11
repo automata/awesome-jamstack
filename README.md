@@ -58,6 +58,7 @@
 - [Jamstack](https://jamstack.org/)
 - [Jamstack resources](https://jamstack.org/resources/) - Videos and articles about Jamstack.
 - [the New Dynamic](https://www.thenewdynamic.org/) - Pick up tools in our Directory to work with the Jamstack. Browse our showcase and get inspired.
+- [Statichunt](https://statichunt.com/) - Jamstack Themes and Resources directory.
 
 ## Chats
 
