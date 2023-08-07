@@ -164,6 +164,7 @@
 
 ### Forms
 
+- [Basin](https://usebasin.com) - Build custom forms without the engineering lift. Automagically collect submissions, block spam, send email notifications, and trigger integrations with connected apps without building and maintaining your own API.
 - [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API. 
 - [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
