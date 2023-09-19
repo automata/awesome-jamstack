@@ -74,10 +74,10 @@
 - [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
-- [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account. 
 - [Layer0](https://layer0.co) - All-in-one Jamstack platform focused on large, dynamic websites and best-in-class performance through an integrated CDN, EdgeJS, predictive prefetching, and performance monitoring.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 - [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
+- [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account. 
 
 *For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
 
