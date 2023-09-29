@@ -190,6 +190,7 @@
 
 ### Database
 
+- [Fireproof](https://use-fireproof.com/) - Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud. 
 - [GraphQL](https://graphql.org) - Query language for APIs and a runtime for fulfilling those queries with your existing data.
 - [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
 - [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise.
