@@ -181,6 +181,7 @@
 - [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 - [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+- [Saleor](https://saleor.io/) - Saleor is [open-source](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
 ### Search
 
