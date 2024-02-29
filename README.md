@@ -151,7 +151,8 @@
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 - [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
-- [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
+- [Clerk](https://clerk.com) – Corbado helps you go passwordless by adding passkeys to your website or app in a few lines of code.
+- [Corbado](https://www.corbado.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
 ### Comments
 
