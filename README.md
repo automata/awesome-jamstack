@@ -47,6 +47,7 @@
   - [Database](#database)
   - [File management](#file-management)
   - [Automation](#automation)
+  - [Image](#image)
 - [Serverless](#serverless)
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
@@ -214,6 +215,10 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
 - [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+
+### Image
+
+- [ShotOG](https://github.com/nicepkg/shotog) - Open-source OG image generation API running on Cloudflare Workers. Generate dynamic Open Graph images in ~50ms with 8 built-in templates.
 
 ## Serverless
 
