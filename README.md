@@ -126,6 +126,7 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 
 - [Cosmic](https://cosmicjs.com) - Headless CMS with REST and GraphQL API options.
 - [Kentico Kontent](https://kontent.ai) - A cloud-native headless CMS that scales.
+- [LightCMS](https://metavert.io) - AI-native headless CMS built with Go and MongoDB. Features REST API, MCP (Model Context Protocol) integration with 41 tools for AI-powered content management, templates, asset management, themes, collections, redirects, and content versioning.
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
 - [Decap CMS](https://decapcms.org/) - Open source Git-based CMS _(Formerly known as [Netlify CMS](https://v1.netlifycms.org/))_.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
