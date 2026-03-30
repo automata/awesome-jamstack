@@ -119,6 +119,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Nift](https://nift.dev) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 - [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
+- [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown.
 
 _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 
