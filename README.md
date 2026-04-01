@@ -47,6 +47,7 @@
   - [Database](#database)
   - [File management](#file-management)
   - [Automation](#automation)
+  - [Utilities](#utilities)
 - [Serverless](#serverless)
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
@@ -214,6 +215,15 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
 - [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+
+### Utilities
+
+- [PageShot](https://pageshot.softvoyagers.com) - Free website screenshot API for capturing full-page or viewport screenshots.
+- [PDFSpark](https://pdfspark.softvoyagers.com) - Free HTML to PDF conversion API for generating PDF documents from web pages.
+- [OGForge](https://ogforge.softvoyagers.com) - Free Open Graph image generation API for creating dynamic social sharing images.
+- [LinkShrink](https://linkshrink.softvoyagers.com) - Free URL shortener API for creating and managing shortened links.
+- [QRMint](https://qrmint.com) - Free styled QR code generation API with customization options.
+- [FreeKit](https://freekit.dev) - All-in-one free developer API toolkit bundling screenshots, PDFs, QR codes and more.
 
 ## Serverless
 
