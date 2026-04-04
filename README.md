@@ -176,6 +176,7 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 - [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 - [Static Forms](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server side code. After user submits the form we'll send you content of the form to your registered email.
 - [Form.taxi](https://form.taxi) - An endpoint for HTML forms to handle submissions with ease. It offers a rich feature set with email notifications, file uploads, submissions archive, GDPR-compliant data processing and a lot more.
+- [FormRecap](https://formrecap.com) - Recover abandoned forms on static sites with a 2.7KB script that sends recovery emails with magic links to restore form progress.
 
 ### E-commerce
 
