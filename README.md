@@ -103,6 +103,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
 - [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
 - [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - Built with Next.js, headless WordPress and Netlify.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for JAMstack workflow orchestration, automated static site deployment management, and multi-agent coordination. MIT licensed.
 
 ## Static Site Generators
 
