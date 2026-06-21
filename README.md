@@ -149,6 +149,7 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 - [CloudCannon](https://cloudcannon.com/) - The Git-based CMS for your Jamstack sites.
 - [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted headless CMS with REST API, HMAC webhooks for rebuild triggers, and first-class support for Next.js, Astro, SvelteKit, and Nuxt.
 
 ## API
 
