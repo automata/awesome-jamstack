@@ -191,6 +191,7 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 - [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 - [Saleor](https://saleor.io/) - Saleor is [open-source](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
+- [GitHub Pages Storefront Starter](https://github.com/duct-tape2/github-pages-storefront-starter) - A free static storefront template for publishing digital product pages on GitHub Pages.
 
 ### Search
 
