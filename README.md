@@ -41,6 +41,7 @@
 - [API](#api)
   - [Authentication](#authentication)
   - [Comments](#comments)
+  - [Live Chat](#live-chat)
   - [Forms](#forms)
   - [E-commerce](#e-commerce)
   - [Search](#search)
@@ -166,6 +167,10 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 - [Disqus](https://disqus.com) - Global comment system that improves discussion on websites and connects conversations across the web.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - The comments plugin lets people comment on content on your site using their Facebook account.
 - [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
+
+### Live Chat
+
+- [Knocket](https://knocket.com) - Free-forever live chat widget for Jamstack sites. One script tag to embed, unified Telegram/email inbox, shareable contact page. No seat limits, no ads.
 
 ### Forms
 
