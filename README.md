@@ -79,6 +79,7 @@
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 - [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 - [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
+- [harvis.dev](https://harvis.dev) - Zero-setup static hosting; deploy a folder via CLI, drag-and-drop or HTTP API and get a live URL in seconds, with built-in form handling. Free for small sites.
 
 _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps]._
 
