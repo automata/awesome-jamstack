@@ -104,6 +104,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
 - [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
 - [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - Built with Next.js, headless WordPress and Netlify.
+- [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner built with React 18 and Vite, using Netlify Functions and Claude Sonnet API.
 
 ## Static Site Generators
 
