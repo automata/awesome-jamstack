@@ -183,6 +183,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 ### E-commerce
 
 - [Astro Snipcart](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+- [Coin Moebius](https://www.coinmoebius.com) - Take payments on any page with cards, crypto, or pay-by-mail through your own accounts. Open source SDK.
 - [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
