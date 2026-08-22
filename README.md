@@ -63,6 +63,7 @@
 - [the New Dynamic](https://www.thenewdynamic.org/) - Pick up tools in our Directory to work with the Jamstack. Browse our showcase and get inspired.
 - [Statichunt](https://statichunt.com/) - Jamstack Themes and Resources directory.
 - [Built At Lightspeed](https://www.builtatlightspeed.com/) - A large directory of Jamstack themes, starters & UI kits.
+- [PageGuard](https://pageguard.org) - Free website health scanner for Jamstack sites with SEO, performance, accessibility and best practices audits powered by AI.
 
 ## Chats
 
