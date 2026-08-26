@@ -193,6 +193,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 - [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 - [Saleor](https://saleor.io/) - Saleor is [open-source](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
+- [Unchained Engine](https://unchained.shop/) - Unchained Engine is an open-source headless commerce engine with a GraphQL API, built-in MCP server for AI agents, B2B quotations and event ticketing.
 
 ### Search
 
