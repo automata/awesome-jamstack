@@ -90,6 +90,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 - [TeleportHQ](https://teleporthq.io/) - Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. Free code export, 3 free projects, unlimited collaborators.
 - [Silex](https://www.silex.me) - Visual website builder that outputs static HTML and CSS. Connects to any headless CMS, self-hostable, no lock-in.
+- [Naratake](https://naratake.com/en) - No-code site builder for local businesses that publishes a real Next.js app you can export in full. Online ordering and bookings run through the owner's own Stripe at 0% commission.
 
 ## Jamstack Sites Showcase
 
