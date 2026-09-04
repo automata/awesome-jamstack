@@ -151,7 +151,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 - [CloudCannon](https://cloudcannon.com/) - The Git-based CMS for your Jamstack sites.
 - [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
-- [YunCMS](https://github.com/Yunsoft-Software/yuncms) - Self-hosted MySQL CMS and REST backend with a React Studio, role-based access control, Files and optional MCP.
+- [YunCMS](https://github.com/Yunsoft-Software/yuncms) - Self-hosted MySQL CMS and REST backend with a React Studio, role-based access control, Files and optional MCP. Website: [Yunsoft](https://yunsoft.com).
 
 ## API
 
