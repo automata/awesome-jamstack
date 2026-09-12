@@ -104,6 +104,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
 - [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
 - [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - Built with Next.js, headless WordPress and Netlify.
+- [With My Eyes](https://chinatravel.world) - Travel-guide site shipping in nine languages (en plus zh/ko/ja/th/de/fr/es/it) with prefixed routes, per-language hreflang and sitemaps, built with Nuxt 3 SSG (@nuxtjs/i18n) and hosted on Vercel.
 
 ## Static Site Generators
 
