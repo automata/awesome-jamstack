@@ -289,6 +289,7 @@ _For a more complete list see [Awesome Serverless](https://github.com/pmuens/awe
 - [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
 - [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) - Leverage the JAMstack with Python and Flask by creating a static site and deploying it to Netlify.
 - [Static Site Comments: A Jamstack How-To](https://snipcart.com/blog/jamstack-static-site-comments)
+- [CMS Statistics 2026](https://www.stackscan.com/blog/cms-statistics) - What share of the web runs a CMS at all: 38.6%, against 31.3% custom-built with no platform under it.
 
 ## Podcasts
 
