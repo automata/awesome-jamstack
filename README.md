@@ -75,7 +75,6 @@
 
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
-- [Layer0](https://layer0.co) - All-in-one Jamstack platform focused on large, dynamic websites and best-in-class performance through an integrated CDN, EdgeJS, predictive prefetching, and performance monitoring.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 - [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 - [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
@@ -84,8 +83,6 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 
 ## No-Code Platforms
 
-- [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
-- [Storipress](https://storipress.com) - All-in-one publishing + blogging platform with integrated site builder and workflow management.
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 - [TeleportHQ](https://teleporthq.io/) - Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. Free code export, 3 free projects, unlimited collaborators.
@@ -95,14 +92,11 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 
 - [React](https://reactjs.org/) - Built on Gatsby.
 - [Squoosh.app](https://squoosh.app/) - Hosted on Netlify, demonstrates advanced features from a modern Web Application.
-- [Hopper](https://travel.hopper.com/) - Built on Gatsby and hosted on Netlify.
 - [VSCode Power User Course](https://vscode.pro/) - PWA built on Gatsby and hosted on Netlify.
 - [CloudyCam](https://CloudyCam.dev/) - PWA built on Next.js and hosted on Zeit Now v2 Serverless platform.
 - [FbaMonthly](https://www.fbamonthly.com) - Hosted on Netlify, built with Jekyll, Netlify Functions and Netlify Forms.
-- [Jarod Peachey](https://jarodpeachey.netlify.com) - Built with Gatsby + MaterialUI and hosted on Netlify
 - [ProtonDB](https://www.protondb.com) - React/MaterialUI/Firebase hosted on Netlify since August 2018. Prominent in Linux gaming community.
 - [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
-- [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
 - [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - Built with Next.js, headless WordPress and Netlify.
 
 ## Static Site Generators
@@ -119,7 +113,6 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 - [Nift](https://nift.dev) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
-- [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
 - [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
 - [Bloggrify](https://bloggrify.com) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
 
@@ -139,7 +132,6 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-- [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
@@ -265,7 +257,6 @@ _For a more complete list see [Awesome Serverless](https://github.com/pmuens/awe
 - [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
-- [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 - [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 - [Jamstack and Netlify: Do We really need another buzzword?](https://noti.st/philhawksworth/qp7jZC/jamstack-and-netlify-do-we-really-need-another-buzzword)
 - [The Jamstack Startup Landscape](https://medium.com/@CRVVC/the-jamstack-startup-landscape-c06cc3cdb917)
