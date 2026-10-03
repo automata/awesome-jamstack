@@ -218,6 +218,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
 - [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+- [LogNorm](https://lognorm.com) - SEO and GEO growth backlog for your site, worked by AI agents (Claude Code, Codex, Cursor) via MCP.
 
 ## Serverless
 
