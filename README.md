@@ -80,7 +80,7 @@
 - [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 - [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
 
-_For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps]._
+_For more resources about Static Web Apps see [Awesome Static Web Apps](https://github.com/staticwebdev/awesome-azure-static-web-apps)._
 
 ## No-Code Platforms
 
@@ -142,7 +142,6 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
-- [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 - [Ghost](https://ghost.org/) - A headless CMS for online publications
 - [Strapi](https://strapi.io) - The open source Headless CMS Front-End Developers love.
