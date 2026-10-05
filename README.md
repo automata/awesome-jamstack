@@ -80,7 +80,7 @@
 - [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 - [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
 
-_For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps]._
+_For more resources about Static Web Apps see [Awesome Static Web Apps](https://github.com/staticwebdev/awesome-azure-static-web-apps)._
 
 ## No-Code Platforms
 
