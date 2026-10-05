@@ -89,6 +89,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 - [TeleportHQ](https://teleporthq.io/) - Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. Free code export, 3 free projects, unlimited collaborators.
+- [Silex](https://www.silex.me) - Visual website builder that outputs static HTML and CSS. Connects to any headless CMS, self-hostable, no lock-in.
 
 ## Jamstack Sites Showcase
 
@@ -119,9 +120,11 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Nift](https://nift.dev) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 - [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
+- [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
+- [Bloggrify](https://bloggrify.com) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
 - [Sourcey](https://sourcey.com/docs) - Open source static documentation generator for OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown.
 
-_For a more complete list see [StaticGen](https://www.staticgen.com/)._
+_For a more complete list see [Jamstack generators](https://jamstack.org/generators/)._
 
 ## CMS
 
@@ -206,6 +209,7 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 - [Fireproof](https://use-fireproof.com/) - Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud.
 - [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 - [Tigris](https://www.tigrisdata.com) - Open-source data platform with databases, automatic search indexing for real-time search, caching and real-time pub/sub.
+- [Nhost](https://nhost.io) - Open-source backend-as-a-service with a Postgres database, instant Hasura GraphQL API, authentication, storage, and serverless functions.
 
 ### File management
 
