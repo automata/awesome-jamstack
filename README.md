@@ -104,6 +104,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
 - [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
 - [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - Built with Next.js, headless WordPress and Netlify.
+- [BJJGraph](https://bjjgraph.org) - Brazilian jiu-jitsu knowledge graph. About 4,600 prerendered pages with a canvas app hydrated on top, hosted on Cloudflare Pages with Pages Functions for share previews.
 
 ## Static Site Generators
 
