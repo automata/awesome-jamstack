@@ -209,6 +209,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 - [Tigris](https://www.tigrisdata.com) - Open-source data platform with databases, automatic search indexing for real-time search, caching and real-time pub/sub.
 - [Nhost](https://nhost.io) - Open-source backend-as-a-service with a Postgres database, instant Hasura GraphQL API, authentication, storage, and serverless functions.
+- [jstash](https://jstash.app/apps/) - Private JSON document storage for each signed-in user of a frontend app.
 
 ### File management
 
