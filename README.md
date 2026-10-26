@@ -162,6 +162,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 - [Corbado](https://www.corbado.com) – Corbado helps you go passwordless by adding passkeys to your website or app in a few lines of code.
 - [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
+- [Express Email OTP Login](https://github.com/manishgupta412/express-email-otp-login) - Passwordless login for Express with email one-time codes and magic links, sent via the Mailtrap Email API.
 
 ### Comments
 
