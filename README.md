@@ -122,6 +122,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
 - [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
 - [Bloggrify](https://bloggrify.com) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
+- [vagejs](https://vagejs.com) - Markdown static site generator that checks links, SEO and accessibility before deploy, and ships an AGENTS.md for AI coding assistants.
 
 _For a more complete list see [Jamstack generators](https://jamstack.org/generators/)._
 
