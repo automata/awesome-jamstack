@@ -47,6 +47,7 @@
   - [Database](#database)
   - [File management](#file-management)
   - [Automation](#automation)
+  - [Screenshots](#screenshots)
 - [Serverless](#serverless)
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
@@ -218,6 +219,10 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
 - [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+
+### Screenshots
+
+- [CurlShot](https://curlshot.com) - Screenshot API that renders a URL, HTML or Markdown to PNG, JPEG, WebP, PDF or video, with signed links for embedding.
 
 ## Serverless
 
