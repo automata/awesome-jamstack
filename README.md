@@ -179,6 +179,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 - [Static Forms](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server side code. After user submits the form we'll send you content of the form to your registered email.
 - [Form.taxi](https://form.taxi) - An endpoint for HTML forms to handle submissions with ease. It offers a rich feature set with email notifications, file uploads, submissions archive, GDPR-compliant data processing and a lot more.
+- [SubmitDock](https://wordpress.org/plugins/submitdock/) - Free, self-hosted form backend that runs on WordPress: static and Jamstack sites post forms to a REST endpoint, and submissions are saved in the dashboard and emailed.
 
 ### E-commerce
 
