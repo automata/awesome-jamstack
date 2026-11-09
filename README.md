@@ -47,6 +47,7 @@
   - [Database](#database)
   - [File management](#file-management)
   - [Automation](#automation)
+  - [AI](#ai)
 - [Serverless](#serverless)
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
@@ -218,6 +219,10 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
 - [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+
+### AI
+
+- [Static AI Block](https://aiblock.onetagai.com/) - Twelve copy-paste AI blocks for static sites (ask this page, summarize, translate, FAQ bot, extract to JSON). Plain HTML and JavaScript, one script tag, no backend; [MIT source](https://github.com/fengyiqicoder/static-ai-block).
 
 ## Serverless
 
