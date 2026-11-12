@@ -151,6 +151,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 - [CloudCannon](https://cloudcannon.com/) - The Git-based CMS for your Jamstack sites.
 - [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
+- [Sitecog](https://sitecog.com) - Hosted headless CMS with on-page visual editing for sites on any stack, REST API and auto-translation into up to 20 languages.
 
 ## API
 
