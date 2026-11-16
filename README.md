@@ -90,6 +90,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 - [TeleportHQ](https://teleporthq.io/) - Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. Free code export, 3 free projects, unlimited collaborators.
 - [Silex](https://www.silex.me) - Visual website builder that outputs static HTML and CSS. Connects to any headless CMS, self-hostable, no lock-in.
+- [Deframer](https://deframer.co) - Converts a published Framer site into a static or server-rendered project (Next.js, Astro, React Router, TanStack Start, Vite, Nuxt or static HTML) you can deploy to any Jamstack host.
 
 ## Jamstack Sites Showcase
 
