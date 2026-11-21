@@ -79,6 +79,7 @@
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 - [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 - [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
+- [deed.page](https://deed.page) - Publishes a static folder or HTML file to a permanent `https://<name>.deed.page` URL with one API call, a CLI or MCP, so build output and AI-agent-made sites go live without a repo. Custom domains and version history; free plan.
 
 _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps]._
 
