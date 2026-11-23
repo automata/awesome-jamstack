@@ -218,6 +218,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
 - [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+- [CiteReady CLI](https://github.com/zColdWater/citeready-cli) - Open-source CLI and GitHub Action that validates llms.txt, sitemap coverage, and Schema.org structured data for static and Jamstack sites.
 
 ## Serverless
 
