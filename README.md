@@ -151,6 +151,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 - [CloudCannon](https://cloudcannon.com/) - The Git-based CMS for your Jamstack sites.
 - [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
+- [Fimo](https://fimo.ai) - AI website platform and CMS with schema-driven content, hosting, and a preview Branch for every change, for sites built with Next.js, Astro, SvelteKit or React Router.
 
 ## API
 
