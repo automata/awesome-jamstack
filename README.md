@@ -151,6 +151,7 @@ _For a more complete list see [Jamstack generators](https://jamstack.org/generat
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 - [CloudCannon](https://cloudcannon.com/) - The Git-based CMS for your Jamstack sites.
 - [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
+- [SkyScribe](https://skyscribe.app/) - Headless CMS on the AT Protocol that stores content in the author's own Bluesky account, with an MIT-licensed SDK for React, Vue, Angular, Next.js, Nuxt and React Router.
 
 ## API
 
